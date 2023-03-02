@@ -69,7 +69,7 @@ programming
 >>>>>>> 8e1bcfe22dc906dec44f28e103481f6ab3bb58bb
 * CERTIFICATIONS AND PROJECTS
   * Google IT Support Specialist – Learned about all aspects of IT including LDAP, Windows PowerShell,
-  Networking services, Security; AAA, DNS, DHCP, PKI and Cryptography
+  Networking services, Security; AAA, DNS, DHCP, Public Key Infrastructure and Cryptography
   * Introduction to Cyber Security from NYU – Learned about SIEM, SOC, IDS, IPS and understood key
   security concepts such as CIA and APT and developed an approach towards preventing and
   mitigating threats
