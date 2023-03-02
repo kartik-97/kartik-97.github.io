@@ -23,10 +23,6 @@ Work experience
 
 * NETWORK TRAINEE, CISCO TAC AT CAPGEMINI (SEPTEMBER 2019 – JULY 2020)
 * CORE RESPONSIBILITIES:
-<<<<<<< HEAD
-
-=======
->>>>>>> 8e1bcfe22dc906dec44f28e103481f6ab3bb58bb
   * Troubleshoot issues related to all CISCO ASA platforms, Sourcefire, Firepower 2100,
   Firepower4100, and Firepower 9300 (chassis platform), logical applications FTDs and
   FMC.
@@ -63,10 +59,6 @@ troubleshooting issues on Linux based cisco
 firewalls and working knowledge of python
 programming
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 8e1bcfe22dc906dec44f28e103481f6ab3bb58bb
 * CERTIFICATIONS AND PROJECTS
   * Google IT Support Specialist – Learned about all aspects of IT including LDAP, Windows PowerShell,
   Networking services, Security; AAA, DNS, DHCP, Public Key Infrastructure and Cryptography
@@ -76,10 +68,6 @@ programming
   * Major Project on Cloud Security on AWS –Deployed a Chabot on AWS’s EC-2 instance running Linux
   and used amazon’s infrastructures and security services such as IAM, WAF
   * Sopra Steria India Ltd. Summer Internship
-  3 JULY 2018 – 31 JULY 2018 Project on ETHICAL HACKING
+    * 3 JULY 2018 – 31 JULY 2018 Project on ETHICAL HACKING
   * HCL Infosystems Ltd Summer Internship
-<<<<<<< HEAD
-  16 ULY 2017– 31 JULY 2017 Project on CAESAR CIPHER USING PYTHON
-=======
-  16 ULY 2017– 31 JULY 2017 Project on CAESAR CIPHER USING PYTHO
->>>>>>> 8e1bcfe22dc906dec44f28e103481f6ab3bb58bb
+    * 16 JULY 2017– 31 JULY 2017 Project on CAESAR CIPHER USING PYTHON
