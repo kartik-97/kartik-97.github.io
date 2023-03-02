@@ -1,13 +1,32 @@
 # main links links
 main:
+<<<<<<< HEAD
   
   - title: "Portfolio"
     url: /portfolio/
+=======
+  #- title: "Publications"
+  #  url: /publications/
+
+  #- title: "Talks"
+  #  url: /talks/    
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+  #- title: "Portfolio"
+  #  url: /portfolio/
+>>>>>>> 8e1bcfe22dc906dec44f28e103481f6ab3bb58bb
         
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
     
+<<<<<<< HEAD
 
+=======
+      # - title: "Guide"
+      #url: /markdown/
+>>>>>>> 8e1bcfe22dc906dec44f28e103481f6ab3bb58bb

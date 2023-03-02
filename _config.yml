@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kartik Jaitly / Portfolio"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Kartik Jaitly"
 description              : &description "Cybersecurity student at UL"
