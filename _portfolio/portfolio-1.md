@@ -1,7 +1,14 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Undergrad Project Cloud Security for AI Chatbot on AWS"
+excerpt: "AI chatbot based on Tensorflow, deployed on AWS EC-2 instance and managing security and infrastructure<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
+* The project focuses on the implementation of cloud computing for the purposes of AI chatbot applications and also the security of the cloud system.
+The platforms used for the project include 
+    * Amazon Web Services
+    * Annaconda 
+    * Tensorflow
+    * Pandas
+    * Numpy
+The project lead to better understanding of the cloud computing platform Amazon Web Services (AWS). Also the techniques used to create the AI chatbot such as the Tensorflow API and python modules like Pandas, Numpy, Tensorflow and setting up the virtual environment through anaconda. 
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
