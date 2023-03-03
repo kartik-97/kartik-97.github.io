@@ -1,5 +1,5 @@
 ---
-title: "Externship porject on Penetration Testing"
+title: "Externship project on Penetration Testing"
 excerpt: "Penetration Testing done on a virtual environment <br/><img src='/images/500x3001.png'>"
 collection: portfolio
 ---
