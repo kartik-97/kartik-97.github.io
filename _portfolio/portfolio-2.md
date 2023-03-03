@@ -2,6 +2,8 @@
 title: "Externship Project on Penetration Testing"
 excerpt: "Penetration Testing done on a virtual environment <br/><img src='/images/500x3001.png'>"
 collection: portfolio
+paperurl: http://kartik-97.github.io/files/CloudSecurityPenetrationTesting.pdf
+
 ---
 
 * This project is done by creating a lab environment on VM Ware. There is a small network system of
@@ -26,3 +28,5 @@ completed in 5 major phases:
     the steps necessary to remove all semblance of detection. Any changes that were made,
     authorizations that were escalated etc. all must return to a state of non-recognition by the host
     network’s administrators.
+
+[Download report here](http://kartik-97.github.io/files/PenetrationTesting.pdf)
