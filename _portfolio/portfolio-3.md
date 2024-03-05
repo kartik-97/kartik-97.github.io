@@ -15,6 +15,7 @@ paperurl: http://kartik-97.github.io/files/HostHardening.pdf
     * Josline Abhinaya Major
     * Karen Rachel John
     * Sneha Katasani 
+    
 * Lab Environment: 
    * A victim machine that is vulnerable to eternal blue exploit.
    * A kali linux machine to perform the penetration test using metasploit.
