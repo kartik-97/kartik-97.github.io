@@ -1,6 +1,6 @@
 ---
 title: "End-to-end-encryption-protocol"
-excerpt: " <br/><img src=\"/images/e2e.jpeg\">"
+excerpt: " <br/><img src=\"/images/e2e.jpg\">"
 collection: portfolio
 paperurl: http://kartik-97.github.io/files/e2eProtocol.pdf
 
