@@ -28,4 +28,4 @@ paperurl: http://kartik-97.github.io/files/e2eProtocol.pdf
     * Bhavya Gaur
 
 [Download report here](http://kartik-97.github.io/files/e2eProtocol.pdf)
-[Github] https://github.com/kartik-97/end-to-end-encryption-protocol/tree/main
+[Github] (https://github.com/kartik-97/end-to-end-encryption-protocol/tree/main)
