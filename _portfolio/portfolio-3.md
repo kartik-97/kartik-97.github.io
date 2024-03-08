@@ -1,6 +1,6 @@
 ---
 title: "Host Hardening"
-excerpt: " <br/><img src='/images/500x3001.png'>"
+excerpt: " <br/><img src='/images/HostHardening.png'>"
 collection: portfolio
 paperurl: http://kartik-97.github.io/files/HostHardening.pdf
 
